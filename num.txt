@@ -3,7 +3,7 @@
 int main()
 {
 	int a = 0;
-	int b = 98;
+	int b = 87;
 	std::cout << a;
 	int c = 0;
 	return c;
